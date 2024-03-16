@@ -36,7 +36,7 @@ const questions = [
   },
   {
     question: "Qual o dia mais feliz na vida do minideca?",
-    image: "../../Assets/sara.JPG",
+    image: "https://img.freepik.com/fotos-gratis/mulher-jovem-e-bonita-magro-fazendo-exercicios-de-alongamento-na-academia-contra-o-branco_155003-17254.jpg?w=900&t=st=1710553901~exp=1710554501~hmac=b868166b1bd01f78d887aa09974f6e9b8e5a0f82d2cb02353a8aba799f042ca2",
     options: [
       "Criação ofical da FEC$",
       "fim da FEC$ / FEC$ awards",
