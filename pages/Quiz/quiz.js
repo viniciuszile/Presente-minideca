@@ -1,7 +1,7 @@
 const questions = [
   {
     question: "Qual o maior inimigo do Minideca ?",
-    image: "../../Assets/miniargentino.jpg",
+    image: '"../../Assets/miniargentino.jpg",
     options: ["Carteira De trabalho", "Sara Cristina", "Araujo", "Vida Social"],
     answer: "Carteira De trabalho",
   },
@@ -47,7 +47,7 @@ const questions = [
   },
   {
     question: "Qual é a função do minideca",
-    image: "../../Assets/minimic.JPG",
+    image: "../../Assets/miniparceiro.jpg",
     options: [
       "Smokar",
       "Ser Toxico",
